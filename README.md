@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I'm Computer Engineer! 
+I'm Computer Engineer! ✨ Panic ✨
 Always looking for sth interesting !
+
 
 
 <!--
