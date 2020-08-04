@@ -6,7 +6,7 @@
 I'm Computer Engineer! ✨ Panic ✨
 Always looking for sth interesting !
 
-NLP, DeepLearning
+NLP, DeepLearning, Paper Reveiw
 
 <!--
 **saitros/saitros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
