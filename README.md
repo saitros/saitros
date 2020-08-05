@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaitros2%2F)](https://hits.seeyoufarm.com)
 
-[![Panic's github stats](https://github-readme-stats.vercel.app/api?username=saitros)](https://github.com/anuraghazra/github-readme-stats)
+[![Panic's github stats](https://github-readme-stats.vercel.app/api?username=saitros&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 
 I'm Computer Engineer! ✨ Panic ✨
