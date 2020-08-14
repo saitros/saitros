@@ -9,6 +9,10 @@ NLP, DeepLearning, Paper Reveiw
 
 [![Panic's github stats](https://github-readme-stats.vercel.app/api?username=saitros&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+**Languages and Tools**  
+
+<code><img height="28" src="https://raw.githubusercontent.com/python/cpython/master/PC/icons/logox128.png"></code>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saitros&layout=compacts&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
