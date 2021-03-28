@@ -5,7 +5,7 @@
 I'm Computer Engineer! ✨ Panic ✨
 Always looking for sth interesting !
 
-NLP, DeepLearning, Paper Reveiw, etc
+NLP, DeepLearning, Paper Reveiw, Serverless computing
 
 [![Panic's github stats](https://github-readme-stats.vercel.app/api?username=saitros&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
