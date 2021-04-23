@@ -9,6 +9,10 @@ NLP, DeepLearning, Paper Reveiw, Serverless computing
 
 [![Panic's github stats](https://github-readme-stats.vercel.app/api?username=saitros&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+**Now Researching**  
+
+(NLP)MultiLingual Embedding
+
 **Languages and Tools**  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saitros&layout=compacts&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
