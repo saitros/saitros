@@ -7,6 +7,9 @@ Always looking for sth interesting !
 
 NLP, DeepLearning, Paper Reveiw, Serverless computing
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=saitros)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 [![Panic's github stats](https://github-readme-stats.vercel.app/api?username=saitros&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 **Now Researching**  
