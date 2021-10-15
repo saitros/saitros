@@ -1,16 +1,15 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaitros2%2F)](https://hits.seeyoufarm.com)
-
-### Hi there 👋
-
-I'm Computer Engineer! ✨ Panic ✨
-Always looking for sth interesting !
-
-NLP, DeepLearning, Paper Reveiw, Serverless computing
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaitros2%2F)](https://hits.seeyoufarm.com) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=saitros)](https://github.com/ryo-ma/github-profile-trophy)
 
+### Hi there 👋
 
-[![Panic's github stats](https://github-readme-stats.vercel.app/api?username=saitros&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+I'm Computer Engineer! ✨ Panic ✨ 
+Always looking for sth interesting !
+
+- I'm currentrly working on Department of AI, Chung-Ang University Intelligent Information Processing Lab. (IIPL)
+- I'm currently learning Natural Language Processing
+- I'm interesting NLP, DeepLearning, Paper Reveiw, Serverless computing
 
 **Domestic Publications
 
