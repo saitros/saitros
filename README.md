@@ -12,13 +12,16 @@ NLP, DeepLearning, Paper Reveiw, Serverless computing
 
 [![Panic's github stats](https://github-readme-stats.vercel.app/api?username=saitros&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+**Domestic Publications
+
+* JunHo Lee, **KyoHoon Jin** and YoungBin Kim "고유명사를 활용한 Seed Lexicon 선정방식의 효율적인 다국어 임베딩 (Efficient Multilingual Embedding via Seed Lexicon Selection Method)", 2021 Korea Computer Congress (KCC) [[Link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10582949)
+
 **Now Researching**  
 
-(NLP)MultiLingual Embedding
+(NLP)MultiLingual Embedding, Data Augment
 
 **Languages and Tools**  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saitros&layout=compacts&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
