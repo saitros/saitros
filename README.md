@@ -17,7 +17,7 @@ Always looking for sth interesting !
 
 **Now Researching**  
 
-(NLP)MultiLingual Embedding, Data Augment
+(NLP)Language Model, MultiLingual Embedding, Data Augment, New task about language, Evaluation Metric
 
 **Languages and Tools**  
 
