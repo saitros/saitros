@@ -19,7 +19,7 @@ Always looking for sth interesting !
 
 (NLP)Language Model, MultiLingual Embedding, Data Augment, New task about language, Evaluation Metric
 
-**Languages and Tools**  
+**Languages and Tools**  ㅇㅇ
 
 
 
