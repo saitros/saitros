@@ -9,7 +9,7 @@ Always looking for sth interesting !
 
 - I'm currentrly working on Department of AI, Chung-Ang University Intelligent Information Processing Lab. (IIPL)
 - I'm currently learning Natural Language Processing
-- I'm interesting NLP, DeepLearning, Paper Reveiw, Serverless computing
+- I'm interesting NLP, DeepLearning, Text style transfer, Translation, Paper Reveiw 
 
 **Domestic Publications**
 
