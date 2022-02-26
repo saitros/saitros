@@ -21,6 +21,8 @@ Always looking for sth interesting !
 
 **Languages and Tools**  
 
+Pytorch, Tensorflow, TensorRT, 
+
 
 
 <!--
