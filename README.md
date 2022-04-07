@@ -2,7 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=saitros)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Hi there 👋
+### Hi there 👋👋
 
 I'm Computer Engineer! ✨ Panic ✨ 
 Always looking for sth interesting !
