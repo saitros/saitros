@@ -11,6 +11,9 @@ Always looking for sth interesting !
 - I'm currently learning Natural Language Processing
 - I'm interesting NLP, DeepLearning, Text style transfer, Translation, Paper Reveiw 
 
+**Publications**
+- KyoHoon Jin, **JunHo Lee**, JuHwan Choi, SooJin Jang and YoungBin Kim "Generative Data Augmentation via Wasserstein Autoencoder for Text Classification", 2022 International Conference on ICT Convergence (ICTC)
+
 **Domestic Publications**
 
 - **JunHo Lee**, KyoHoon Jin and YoungBin Kim "고유명사를 활용한 Seed Lexicon 선정방식의 효율적인 다국어 임베딩 (Efficient Multilingual Embedding via Seed Lexicon Selection Method)", 2021 Korea Computer Congress (KCC) [[Link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10582949)
