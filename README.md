@@ -12,7 +12,7 @@ Always looking for sth interesting !
 - I'm interesting NLP, DeepLearning, Text style transfer, Translation, Paper Reveiw 
 
 **Publications**
-- KyoHoon Jin, **JunHo Lee**, JuHwan Choi, SooJin Jang and YoungBin Kim "Generative Data Augmentation via Wasserstein Autoencoder for Text Classification", 2022 International Conference on ICT Convergence (ICTC) [Paper](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/ictc2022/abs/EW4-6.pdf)
+- KyoHoon Jin, **JunHo Lee**, JuHwan Choi, SooJin Jang and YoungBin Kim "Generative Data Augmentation via Wasserstein Autoencoder for Text Classification", 2022 International Conference on ICT Convergence (ICTC) [[Link]](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/ictc2022/abs/EW4-6.pdf)
 
 **Domestic Publications**
 
