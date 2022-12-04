@@ -21,7 +21,7 @@ Always looking for sth interesting !
 
 **Now Researching**  
 
-(NLP)Language Model, MultiLingual Embedding, Data Augment, New task about language, Evaluation Metric
+(NLP)Language Model, Data Augment, Text Style Transfer
 
 **Languages and Tools**  
 
