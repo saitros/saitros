@@ -19,6 +19,7 @@ Always looking for sth interesting !
 
 - **Junho Lee**, Sangmin Song, Juhwan Choi, Juhyoung Park, Kyohoon Jin, Youngbin Kim "낯선 데이터를 활용한 과잉신뢰 완화 텍스트 증강 기법 (Text Augmentation to Mitigate Overconfidence through Unfamiliar Data), Proceedings of HCI Korea 2023
 - JuHwan Choi, **JunHo Lee**, KyoHoon Jin, YeHoon Jang and YoungBin Kim "Variational Autoencoder를 활용한 의미 보존 자연어 데이터 증강 기법 (Semantic Preservation Natural Language Data Augmentation via Variational Autoencoder), 2022 Summer Annual Conference of IEIE" [[Link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11133108)
+- Yuchul Shin, Kyohoon Jin, Juhwan Choi, **Junho Lee**, Soojin Jang and Youngbin Kim "Semantic Preservation and Natural Language Data Augmentation via Variational Autoencoder", 2022 TechART  [[Link]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002895235)
 - **JunHo Lee**, KyoHoon Jin and YoungBin Kim "고유명사를 활용한 Seed Lexicon 선정방식의 효율적인 다국어 임베딩 (Efficient Multilingual Embedding via Seed Lexicon Selection Method)", 2021 Korea Computer Congress (KCC) [[Link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10582949)
 
 **Now Researching**  
