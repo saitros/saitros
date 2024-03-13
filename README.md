@@ -7,11 +7,11 @@
 I'm Computer Engineer! ✨ Panic ✨ 
 Always looking for sth interesting !
 
-- I'm currentrly working on Department of AI, Chung-Ang University Intelligent Information Processing Lab. (IIPL)
-- I'm currently learning Natural Language Processing
+- I'm currently research Natural Language Processing, Multi Modal Processing with vision
 - I'm interesting NLP, DeepLearning, Text style transfer, Translation, Paper Reveiw 
 
 **Publications**
+* Kyohoon Jin, **Junho Lee**, Juhwan Choi, Sangming Song and Youngbin Kim "Enhancing Effectiveness and Robustness in a Low-Resource Regime via Decision-Boundary-aware Data Augmentation", The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING) [[Link]]()
 * Juhwan Choi, Kyohoon Jin, **Junho Lee**, Sangming Song and Youngbin Kim "AutoAugment Is What You Need: Enhancing Rule-based Augmentation Methods in Low-resource Regimes", 2024 European Chapter of the Association for Computational Linguistics (EACL) Student Research Workshop [[Link]](https://openreview.net/forum?id=ZxqJT-EerBe)
 - Juhwan Choi, Kyohoon Jin, **Junho Lee**, Sangmin Song and Youngbin Kim "SoftEDA: Rethinking Rule-Based Data Augmentation with Soft Labels", 2023 International Conference on Learning Representations (ICLR) Tiny[[Link]](https://openreview.net/forum?id=OiSbJbVWBJT) 
 - KyoHoon Jin, **JunHo Lee**, JuHwan Choi, SooJin Jang and YoungBin Kim "Generative Data Augmentation via Wasserstein Autoencoder for Text Classification", 2022 International Conference on ICT Convergence (ICTC) [[Link]](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/ictc2022/abs/EW4-6.pdf)
