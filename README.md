@@ -11,7 +11,6 @@ Always looking for sth interesting !
 - I'm interesting NLP, DeepLearning, Text style transfer, Translation, Paper Reveiw 
 
 **Publications**
-* Juhwan Choi, Kyohoon Jin, **Junho Lee**, Sangmin Song and Youngbin Kim "AutoAugment Is What You Need: Enhancing Rule-based Augmentation Methods in Low-resource Regimes", 2024 European Chapter of the Association for Computational Linguistics (EACL) Student Research Workshop [[Link]](https://aclanthology.org/2024.eacl-srw.1/)
 * Kyohoon Jin, **Junho Lee**, Juhwan Choi, Sangming Song and Youngbin Kim "Enhancing Effectiveness and Robustness in a Low-Resource Regime via Decision-Boundary-aware Data Augmentation", The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING) [[Link]](https://aclanthology.org/2024.lrec-main.525/)
 * Juhwan Choi, Kyohoon Jin, **Junho Lee**, Sangming Song and Youngbin Kim "AutoAugment Is What You Need: Enhancing Rule-based Augmentation Methods in Low-resource Regimes", 2024 European Chapter of the Association for Computational Linguistics (EACL) Student Research Workshop [[Link]](https://openreview.net/forum?id=ZxqJT-EerBe)
 - Juhwan Choi, Kyohoon Jin, **Junho Lee**, Sangmin Song and Youngbin Kim "SoftEDA: Rethinking Rule-Based Data Augmentation with Soft Labels", 2023 International Conference on Learning Representations (ICLR) Tiny[[Link]](https://openreview.net/forum?id=OiSbJbVWBJT) 
